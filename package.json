@@ -1,0 +1,21 @@
+{
+  "name": "seomate-b6b6fb67-43c0-4b70-b411-ef540d43421b-1764125725394",
+  "version": "1.0.0",
+  "description": "Blog for Rollback Test Site",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^2.0.0",
+    "@astrojs/rss": "^4.0.0",
+    "astro": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
